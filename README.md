@@ -8,9 +8,9 @@
 
 ## Architecture
 
-<p align="center">
+<!-- <p align="center">
   <img width="900" height="400" src="">
-</p>
+</p> -->
 
 
 ### Installation
