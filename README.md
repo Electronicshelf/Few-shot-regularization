@@ -9,7 +9,7 @@
 ## Architecture
 
 <p align="center">
-  <img width="900" height="400" src="imgs/OrthoShot3.png">
+  <img width="900" height="400" src="">
 </p>
 
 
